@@ -10,6 +10,7 @@ This repository contains projects developed as part of my learning journey throu
 
 - 🔗 [PHP MySQL Docker Tutorial](https://github.com/albertdveada/PHP-MySQL-Docker-Tutorial)
 - 🔗 [Laravel MySQL Docker Tutorial](https://github.com/albertdveada/Laravel-MySQL-Docker-Tutorial)
+- 🔗 [Laravel Breeze Crud](https://github.com/albertdveada/laravel-breeze-crud)
 
 ---
 
