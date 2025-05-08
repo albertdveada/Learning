@@ -9,7 +9,7 @@ This repository contains projects developed as part of my learning journey throu
 ✨ Explore the following repositories:
 
 - 🔗 [PHP MySQL Docker Tutorial](https://github.com/albertdveada/PHP-MySQL-Docker-Tutorial)
-- 🔗 [Tutorial Docker Laravel MySQL](https://github.com/albertdveada/Tutorial-Docker-Laravel-MySQL)
+- 🔗 [Laravel MySQL Docker Tutorial](https://github.com/albertdveada/Laravel-MySQL-Docker-Tutorial)
 
 ---
 
